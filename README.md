@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end as well as interested to learn full also.
 - 🌱 I’m currently learning full stack development and focussing on my problem solvoing skills.
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me ...
+- 📫 How to reach me email-priyanshu1909200@gmail.com
 
 <!---
 Pkrespo1909/Pkrespo1909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
